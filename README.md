@@ -4,7 +4,7 @@
 
 <p>Metaversus is a landing page for a Metaverse app developed with <b>React</b>.</p>
 
-<a href='https://lucas1337dev.github.io/GPT-3/'>Live Project</a>
+<a href='https://lucas1337dev.github.io/Metaversus/'>Live Project</a>
 
 <h2>Technologies:</h2>
 <p>
