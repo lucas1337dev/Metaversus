@@ -1,6 +1,6 @@
 <h1>Metaversus</h1>
 
-<img src='' alt='project img' />
+<img src='https://github.com/lucas1337dev/Metaversus/blob/main/Metaversus.png' alt='project img' />
 
 <p>Metaversus is a landing page for a Metaverse app developed with <b>React</b>.</p>
 
