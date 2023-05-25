@@ -14,7 +14,7 @@ const Navbar = () => (
             className={`${styles.innerWidth} mx-auto flex justify-between gap-8`}
         >
             <img
-                src="/search.svg"
+                src="./search.svg"
                 alt="search"
                 className="w-[24px] h-[24px] object-contain cursor-pointer"
             />
@@ -22,7 +22,7 @@ const Navbar = () => (
                 METAVERSUS
             </h2>
             <img
-                src="/menu.svg"
+                src="./menu.svg"
                 alt="menu"
                 className="w-[24px] h-[24px] object-contain cursor-pointer"
             />
